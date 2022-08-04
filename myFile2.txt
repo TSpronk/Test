@@ -1,11 +1,6 @@
 Jetzt ist hier auch Text!
 Noch mehr Text!
 Test123 
-<<<<<<< HEAD
-Test Source Tree
-Zweiter Branch
-Neuer Test
-=======
-Test Source Tree!
-Zweiter Branch!
->>>>>>> mehrText
+
+
+
