@@ -2,10 +2,7 @@ Jetzt ist hier auch Text!!
 Noch mehr Text!!
 Test123 
 Das branch 2
-<<<<<<< HEAD
-Das ist eine neue Zeile --> konflikt
-=======
+Das ist eine neue Zeile
 hier ist auch mehr text
->>>>>>> more-content
-
+new Content
 
